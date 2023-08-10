@@ -1,0 +1,10 @@
+1 12 Juan Perez 20205436
+6 11 Maria Lopez 2012546
+3 14 Carlos Rodriguez 20155314
+7 41 Ana Gonzalez 20205467
+22 15 Luis Pacco 20145673
+5 20 Bryan Roman 20183456
+13 22 Max Park 20197430
+2 24 Rami Sbahi 20201653
+8 21 Luis Martinez 20155391
+23 26 Mats Valk 20200721
